@@ -14,7 +14,4 @@ This internship version enhances resume generation with better UI, performance, 
 - 🕵️ Competitor product update tracker (for portfolio section)
 - ⚙️ Built with Python, Streamlit, OpenAI API, and custom design
 
----
-
-## 📂 Folder Structure
 
