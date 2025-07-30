@@ -147,6 +147,9 @@ from fpdf import FPDF
 import io
 
 FONT_PATH = "DejaVuSans.ttf"
+FONT_PATH = "DejaVuSans.ttf"
+FONT_PATH_BOLD = "DejaVuSans-Bold.ttf"
+
 
 
 class ResumePDF(FPDF):
