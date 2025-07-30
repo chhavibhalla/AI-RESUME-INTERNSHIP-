@@ -146,9 +146,10 @@ from api import generate_resume_summary
 from fpdf import FPDF
 import io
 
-FONT_PATH = "DejaVuSans.ttf"
-FONT_PATH = "DejaVuSans.ttf"
-FONT_PATH_BOLD = "DejaVuSans-Bold.ttf"
+# FONT_PATH = "DejaVuSans.ttf"
+# FONT_PATH = "DejaVuSans.ttf"
+# FONT_PATH_BOLD = "DejaVuSans-Bold.ttf"
+FONT_PATH = "AI-RESUME-BUILDER-main/DejaVuSans.ttf"
 
 
 
